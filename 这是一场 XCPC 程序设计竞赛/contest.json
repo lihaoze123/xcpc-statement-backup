@@ -17,19 +17,15 @@
         "display_name": "Hello, World!",
         "samples": [
           {
-            "input": "World",
+            "input": "",
             "output": "Hello, World!"
-          },
-          {
-            "input": "Typst",
-            "output": "Hello, Typst!"
           }
         ],
         "format": "latex"
       },
       "statement": {
-        "description": "给定一个字符串 $S$，输出 “Hello, $S$!”",
-        "input": "输入一个字符串 $S$。",
+        "description": "输出 “Hello, World!”",
+        "input": "无",
         "output": "输出答案。",
         "notes": "字符串长度不超过 100。"
       },
