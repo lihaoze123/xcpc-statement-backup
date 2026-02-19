@@ -28,12 +28,12 @@
         "format": "latex"
       },
       "statement": {
-        "description": "给定一个字符串 $S$，输出 “Hello, $S$!”",
+        "description": "\\begin{tabular}{ll}\n    Input file: & standard input \\\\\n    Output file: & standard output \\\\\n    Time Limit: & 1 second \\\\\n    Memory Limit: & 512 megabytes \\\\\n\\end{tabular}\n\n给定一个字符串 $S$，输出 “Hello, $S$!”",
         "input": "输入一个字符串 $S$。",
         "output": "输出答案。",
         "notes": "字符串长度不超过 100。"
       },
-      "key": "53fab6ac-6c80-4b3b-b3a1-dfb4464420fe"
+      "key": "b5de4add-db72-49f9-8162-90271c877f7c"
     },
     {
       "problem": {
@@ -56,7 +56,7 @@
         "output": "输出 $A + B$ 的值。",
         "notes": "$-10^9 \\leq A, B \\leq 10^9$。"
       },
-      "key": "d1373e41-ed98-4da7-955f-cffec4f849da"
+      "key": "7a4b789a-33cd-4258-9705-c3ec928988ef"
     },
     {
       "problem": {
@@ -83,7 +83,7 @@
         "output": "如果是回文串输出 \\texttt{Yes}，否则输出 \\texttt{No}。",
         "notes": "字符串长度不超过 $10^5$。"
       },
-      "key": "27095f28-5fbc-4670-8404-f5c088d0780c"
+      "key": "1ff3cc30-1922-4e26-9f09-0ca1fc52ad6f"
     },
     {
       "problem": {
@@ -106,7 +106,7 @@
         "output": "输出排序后的数组，元素之间用空格分隔。",
         "notes": "数组元素范围在 $-10^6$ 到 $10^6$ 之间。"
       },
-      "key": "401d5c6c-172a-48b1-a117-a91df0caf363"
+      "key": "b7571fcb-0678-4a7a-aee6-057de4210424"
     },
     {
       "problem": {
@@ -129,7 +129,7 @@
         "output": "输出 $n!$ 的值。",
         "notes": "请注意 $20! = 2,432,902,008,176,640,000$ 。"
       },
-      "key": "14b6844b-86ea-49dc-bea5-d5315b254c8b"
+      "key": "ebb6825b-13c0-4f52-bd59-c35305554798"
     },
     {
       "problem": {
@@ -152,7 +152,7 @@
         "output": "输出 $n$ 个数，第 $i$ 个数是 $i^2$，数之间用空格分隔。",
         "notes": "### 数据范围\n- $1 \\le n \\le 1000$\n- 结果在 32 位整数范围内\n\n### 提示\n可以使用循环或公式直接计算。"
       },
-      "key": "b0f7c173-ec31-4670-a8eb-fe0517f02343"
+      "key": "9b47c5f2-50f8-406c-a28d-2c84d80bde3d"
     }
   ],
   "images": []
